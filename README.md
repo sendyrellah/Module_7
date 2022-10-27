@@ -1,2 +1,4 @@
-# Module_7
-Module 7: Employee Database with SQL
+# Module 7: Employee Database with SQL
+
+## Overview of Project
+In this module, I'll learn about data modeling, engineering, and analysis. Applying my knowledge of DataFrames and tabular data, I'll create entity relationship diagrams (ERDs), import data into a database, troubleshoot common errors, and create queries that use data to answer questions. Databases are used everywhere—small and large businesses, and even individuals working on personal projects—and SQL is one of the most widely used query languages. Its ability to organize and query data, especially on a large scale, makes SQL knowledge a highly sought after skill in the workforce.
